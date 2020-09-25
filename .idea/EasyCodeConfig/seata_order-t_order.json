@@ -1,0 +1,59 @@
+{
+  "name" : "TOrder",
+  "originTableName" : "t_order",
+  "comment" : null,
+  "fullColumn" : [ {
+    "name" : "id",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "Int",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "userId",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "Int",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "productId",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "Int",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "tCount",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "Int",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "money",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "Double",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "status",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "Int",
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.jie.could",
+  "savePath" : "./seata-order-service2001/src/main/java/com/jie/could",
+  "saveModelName" : "seata-order-service2001"
+}
